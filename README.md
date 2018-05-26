@@ -4,7 +4,7 @@
 
 **_Ссылка на файл с текстом, который получился после обработки_**
 
-*[result.txt.link](https://github.com/snovivi/hw9/blob/master/result.txt)
+[result.txt.link](https://github.com/snovivi/hw9/blob/master/result.txt)
 
 **_задание 1_**
 
